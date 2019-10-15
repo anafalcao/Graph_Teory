@@ -1,0 +1,42 @@
+
+
+
+
+Sobre a relação entre Edsger W. Dijkstra e Alan M. Turing:
+Distância: inf
+Caminho: []
+
+
+
+Sobre a relação entre Edsger W. Dijkstra e J. B. Kruskal:
+Distância: 3.48036845488905
+Caminho: ['Edsger W. Dijkstra', 'John R. Rice', 'Dan C. Marinescu', 'Howard Jay Siegel', 'Edwin K. P. Chong', 'Ness B. Shroff', 'R. Srikant', 'Albert G. Greenberg', 'J. B. Kruskal']
+
+
+
+Sobre a relação entre Edsger W. Dijkstra e Jon M. Kleinberg:
+Distância: 2.7069936175564644
+Caminho: ['Edsger W. Dijkstra', 'A. J. M. van Gasteren', 'Gerard Tel', 'Hans L. Bodlaender', 'Dimitrios M. Thilikos', 'Prabhakar Ragde', 'Avi Wigderson', 'Eli Upfal', 'Prabhakar Raghavan', 'Jon M. Kleinberg']
+
+
+
+Sobre a relação entre Edsger W. Dijkstra e Éva Tardos:
+Distância: 2.7535141793573357
+Caminho: ['Edsger W. Dijkstra', 'A. J. M. van Gasteren', 'Gerard Tel', 'Hans L. Bodlaender', 'Jan van Leeuwen', 'Mark H. Overmars', 'Micha Sharir', 'Haim Kaplan', 'Robert Endre Tarjan', 'Andrew V. Goldberg', 'Serge A. Plotkin', 'Éva Tardos']
+
+
+
+Sobre a relação entre Edsger W. Dijkstra e Daniel R. Figueiredo:
+Distância: 2.9428308695367855
+Caminho: ['Edsger W. Dijkstra', 'John R. Rice', 'Dan C. Marinescu', 'Chuang Lin', 'Bo Li', 'Y. Thomas Hou', 'Zhi-Li Zhang', 'Donald F. Towsley', 'Daniel R. Figueiredo']
+
+
+
+Os três vértices de maiores graus da MST com seus respectivos graus são:
+[['Wei Li', 171], ['Wei Wang', 146], ['Wei Zhang', 143]]
+
+Os vizinhos de Edsger W. Dijkstra na MST são:
+['Carel S. Scholten']
+
+Os vizinhos de Daniel R. Figueiredo na MST são:
+['Alexandre A. Santos', 'André C. Pinho']
